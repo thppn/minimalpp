@@ -1,0 +1,15 @@
+program forc {
+    declare x,y,z, k;
+    {
+    k:=1;
+    x:=4;
+    forcase 
+        when (k< x):
+        {   
+            print(k); 
+            k:=k+1;
+        }
+        
+        default : print(x);
+    }
+}
