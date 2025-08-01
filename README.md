@@ -1,1 +1,1 @@
-# minimalpp
+# minimal++
